@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 dev
+=======
+sdasdadasdsa
+dasnjdnasjkd
+dnjasndjasda
+damskdlamlskdnaks
+>>>>>>> 4a0579b... main commit

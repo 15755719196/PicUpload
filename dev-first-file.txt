@@ -1,6 +1,10 @@
 sdasdadasdsa
 dasnjdnasjkd
 dnjasndjasda
+<<<<<<< HEAD
 damskdlamlskdnak
 anjdnasjndnas
 dansdjs
+=======
+damskdlamlskdnaks
+>>>>>>> 4a0579b571af19a0daf5281f45b8dc411a5028e5
